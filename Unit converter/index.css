@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    padding-top: 4rem;
+    font-family: 'Whyte', 'sans-serif'; 
+  }
+  
+  main{
+    background: #1F2937;
+    margin: 0 auto;
+    text-align: center;
+  /*   padding: 1.5rem 0; */
+    max-width: 30rem;
+  }
+  
+  .top{
+    color: #fff;
+    background: #6943FF;
+    padding: 1.5rem 0;  
+  }
+  
+  input{
+    margin: 1.7rem auto 0;
+    background: none;
+    border: 2px solid #B295FF;
+    display: block;
+    border-radius: 3px;
+    width: 5rem;
+    height: 4rem;
+    padding: .6rem;
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+  }
+  
+  button{
+    margin-top: 1.3rem;
+    background: #fff;
+    border: none;
+    padding: .7rem 1rem;
+    border-radius: 3px;
+  }
+  
+  .bottom{
+    padding: 0 1.1rem .1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .card{
+    margin: 1.5rem 1.2rem;
+    background: #273549;
+    padding: 1.5rem 1.1rem;
+  }
+  
+  h3{
+    color: #B295FF;
+  }
+  
+  p{
+    color: #fff;
+    font-weight: 100;
+    margin-top: 1rem;
+    font-size: .9rem;
+  }
+  
+  button:hover{
+    cursor: pointer;
+  }
